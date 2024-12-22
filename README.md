@@ -34,7 +34,6 @@ FUNCTIONS:
 [19. Explicit indexes](#Explicit-indexes)<br>
 [20. Visualizing your data](#Visualizing-your-data)<br>
 [21. Arithmetic with Series & DataFrames](#Arithmetic-with-Series-DataFrames)<br>
-[21. Merge DataFrames](#Merge-DataFrames)<br>
 
 ---
 
